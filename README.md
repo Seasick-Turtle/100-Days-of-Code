@@ -6,3 +6,11 @@ In order to show my progress and record what I've done (aside from repositories 
 * Started Zero-to-Mastery challenges 11 & 12
 * Reviewed Challenge 11 rules and designs, planned accordingly, added basic layout
 * Challenge 11 & 12 commits/submissions will happen tomorrow due to late start
+
+
+### Day 2:
+* Was a bit preoccupied today, couldn't get much coding done today
+* Managed to at least finish Advent of Code Day 1, part 1 
+* Reviewed the frequency counter algorithm 
+* Reinstalled global packages due to npm vulnerability 
+
