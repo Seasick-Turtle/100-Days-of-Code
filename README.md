@@ -14,3 +14,8 @@ In order to show my progress and record what I've done (aside from repositories 
 * Reviewed the frequency counter algorithm 
 * Reinstalled global packages due to npm vulnerability 
 
+### Day 3:
+* Finished Day 1 of AoC
+* Started on Day 2
+* Spent time reviewing more algorithms
+* Added images, grid and flexbox to Challenge 11
