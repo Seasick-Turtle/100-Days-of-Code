@@ -19,3 +19,8 @@ In order to show my progress and record what I've done (aside from repositories 
 * Started on Day 2
 * Spent time reviewing more algorithms
 * Added images, grid and flexbox to Challenge 11
+
+### Day 4:
+* Didn't have much time today
+* Managed to listen to JavaScript videos 
+* Also completed Day 2 part 1, working on part 2
