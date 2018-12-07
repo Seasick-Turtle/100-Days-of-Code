@@ -24,3 +24,9 @@ In order to show my progress and record what I've done (aside from repositories 
 * Didn't have much time today
 * Managed to listen to JavaScript videos 
 * Also completed Day 2 part 1, working on part 2
+
+
+### Day 5:
+* Spent time practicing algorithms
+* Today has been used to review things 
+* Made some additional progress on challenge 11
