@@ -30,3 +30,8 @@ In order to show my progress and record what I've done (aside from repositories 
 * Spent time practicing algorithms
 * Today has been used to review things 
 * Made some additional progress on challenge 11
+
+### Day 6:
+
+* No code today
+* Instead, reviewed math and logic courses
