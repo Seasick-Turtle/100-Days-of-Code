@@ -7,7 +7,6 @@ In order to show my progress and record what I've done (aside from repositories 
 * Reviewed Challenge 11 rules and designs, planned accordingly, added basic layout
 * Challenge 11 & 12 commits/submissions will happen tomorrow due to late start
 
-
 ### Day 2:
 * Was a bit preoccupied today, couldn't get much coding done today
 * Managed to at least finish Advent of Code Day 1, part 1 
@@ -25,7 +24,6 @@ In order to show my progress and record what I've done (aside from repositories 
 * Managed to listen to JavaScript videos 
 * Also completed Day 2 part 1, working on part 2
 
-
 ### Day 5:
 * Spent time practicing algorithms
 * Today has been used to review things 
@@ -35,3 +33,8 @@ In order to show my progress and record what I've done (aside from repositories 
 
 * No code today
 * Instead, reviewed math and logic courses
+
+### Day 7:
+
+* Fixed the header & top section of challenge 11
+* Spent time working on JavaScript challenges
