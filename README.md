@@ -38,3 +38,20 @@ In order to show my progress and record what I've done (aside from repositories 
 
 * Fixed the header & top section of challenge 11
 * Spent time working on JavaScript challenges
+
+### Day 8:
+
+* Was feeling sick
+* Spent the day reading and getting rest
+
+### Day 9:
+
+* Fixed a problem in swapi-example regarding state and maintaining data
+* Did some additional reading
+
+### Day 10: 
+
+* Updated dependencies for smart-brain-api & facerecognition
+* Reinstalled global packages for security fixes 
+* Fixed an error where using npm start for 2 projects wouldn't open the second in another port
+* Refactored/fixed errors in both projects
