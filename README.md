@@ -55,3 +55,9 @@ In order to show my progress and record what I've done (aside from repositories 
 * Reinstalled global packages for security fixes 
 * Fixed an error where using npm start for 2 projects wouldn't open the second in another port
 * Refactored/fixed errors in both projects
+
+
+### Day 11: 
+
+* Spent today working on networking issues for friend's client
+* Had some free time today to read, came home too late for code
