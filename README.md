@@ -56,8 +56,15 @@ In order to show my progress and record what I've done (aside from repositories 
 * Fixed an error where using npm start for 2 projects wouldn't open the second in another port
 * Refactored/fixed errors in both projects
 
-
 ### Day 11: 
 
 * Spent today working on networking issues for friend's client
 * Had some free time today to read, came home too late for code
+
+### Days 12 - 17 
+
+* Haven't had much time during the weekdays 
+* Signed up for project on Reddit
+* Have been learning Python/Django over the weekend
+* Did security fix on facerecognition/smart-brain-api
+* Did additional reading
