@@ -68,3 +68,13 @@ In order to show my progress and record what I've done (aside from repositories 
 * Have been learning Python/Django over the weekend
 * Did security fix on facerecognition/smart-brain-api
 * Did additional reading
+
+### Day 18:
+
+* Spent the day reading, had a meeting with project group members
+
+### Day 19:
+
+* Refactored and deployed smart-brain-api to Heroku
+* Ran into issues with front end (facerecognition) being unable to communicate with back end
+* Currently debugging the issue
