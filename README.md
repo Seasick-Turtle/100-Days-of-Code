@@ -78,3 +78,16 @@ In order to show my progress and record what I've done (aside from repositories 
 * Refactored and deployed smart-brain-api to Heroku
 * Ran into issues with front end (facerecognition) being unable to communicate with back end
 * Currently debugging the issue
+
+### Days 20-28: 
+
+* Been occupied with holiday season commitments
+* Have been reading more about algorithms, more CSS properties
+* Joined someone with completing the first FreeCodeCamp section
+  * Going to look for a partner to learn Vue or Angular 2+ soon
+* Have been taking extensive notes per section with partner 
+* Still debugging facerecognition issue, unsure if it's a CORS issue
+  * Have attempted to add headers to the request to avoid CORS issue, wasn't successful
+  * Have also attempted to see if backend was the issue, handled the options request as well as the route but that didn't work either
+  * Still receiving a 503 error, debugging with Postman has been somewhat successful
+* Going to continue with previous committments 
