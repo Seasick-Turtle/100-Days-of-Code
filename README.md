@@ -79,7 +79,7 @@ In order to show my progress and record what I've done (aside from repositories 
 * Ran into issues with front end (facerecognition) being unable to communicate with back end
 * Currently debugging the issue
 
-### Days 20-28: 
+### Days 20-25: 
 
 * Been occupied with holiday season commitments
 * Have been reading more about algorithms, more CSS properties
@@ -91,3 +91,10 @@ In order to show my progress and record what I've done (aside from repositories 
   * Have also attempted to see if backend was the issue, handled the options request as well as the route but that didn't work either
   * Still receiving a 503 error, debugging with Postman has been somewhat successful
 * Going to continue with previous committments 
+
+
+### Day 26:
+
+* Reworked CSS properties for both mobile and desktop versions of coding challenge 11
+* Worked more on the FCC curiculum 
+* Started planning on how to start learning Vue 
