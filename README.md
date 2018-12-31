@@ -108,3 +108,5 @@ In order to show my progress and record what I've done (aside from repositories 
 * Read more about closures in You Don't Know JS
 * Practiced more Python and have started preparing to start the group project starting in January
 * Reviewed more math topics to prepare more for advanced math that is necessary for computer science topics
+
+### Pausing for New Years, will resume after New Years
