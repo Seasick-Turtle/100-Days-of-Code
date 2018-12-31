@@ -98,3 +98,13 @@ In order to show my progress and record what I've done (aside from repositories 
 * Reworked CSS properties for both mobile and desktop versions of coding challenge 11
 * Worked more on the FCC curiculum 
 * Started planning on how to start learning Vue 
+
+
+### Day 27 & 28:
+
+* Reviewed function currying
+* Did additional work on the FCC course
+* Took notes on the bezier curve for CSS animations
+* Read more about closures in You Don't Know JS
+* Practiced more Python and have started preparing to start the group project starting in January
+* Reviewed more math topics to prepare more for advanced math that is necessary for computer science topics
