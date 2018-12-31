@@ -109,4 +109,8 @@ In order to show my progress and record what I've done (aside from repositories 
 * Practiced more Python and have started preparing to start the group project starting in January
 * Reviewed more math topics to prepare more for advanced math that is necessary for computer science topics
 
-### Pausing for New Years, will resume after New Years
+### Pausing Day Count for New Year's Eve:
+
+* Taking it slow for New Year's Eve
+* Did have an hour to commit to the FCC course and note taking
+* Read more about 'this' and closures/scope to get a deeper understanding, approx ~40 pages
