@@ -114,3 +114,10 @@ In order to show my progress and record what I've done (aside from repositories 
 * Taking it slow for New Year's Eve
 * Did have an hour to commit to the FCC course and note taking
 * Read more about 'this' and closures/scope to get a deeper understanding, approx ~40 pages
+
+
+### Day 29:
+
+* Put time into working on/taking notes in the FCC course
+* Made additional progress with challenge 11, reconfigured footer & fixed order of elements, reworking grid template
+* Read another chapter in YDKJS
