@@ -13,3 +13,10 @@
 * Implemented 2 SVG animations in FCC tribute page
 * Spent time learning how to use GIMP 2.10 and started making images for the tribute page
 * Saw that issue I was working on for coding challenge 13 has been taken care of before I could submit a pull request, so I'll keep looking for other useful contributions I can make
+
+### Pausing Progress due to illness
+
+* Did manage to learn a little more about SVGs and animating them before being unable to continue
+* Will resume progress tomorrow
+
+### Day 3:
