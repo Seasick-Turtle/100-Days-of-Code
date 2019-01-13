@@ -20,3 +20,8 @@
 * Will resume progress tomorrow
 
 ### Day 3:
+
+After several days of feeling ill and not being able to look at screens for very long (still feeling a little under the weather) I managed to:
+* Joined an organization, Project Unicorn), and joined a group for a new project
+* Did additional work on FCC tribute page, just needs a bit more CSS work and content and should be done
+* Got invited as a contributor for the new project
