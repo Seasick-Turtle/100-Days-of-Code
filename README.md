@@ -25,3 +25,9 @@ After several days of feeling ill and not being able to look at screens for very
 * Joined an organization, Project Unicorn), and joined a group for a new project
 * Did additional work on FCC tribute page, just needs a bit more CSS work and content and should be done
 * Got invited as a contributor for the new project
+
+### Day 4:
+
+* Assisted with user functionality diagram and ux design for TaskIt
+* Did additional work on FCC tribute
+* Started planning for the next FCC project
