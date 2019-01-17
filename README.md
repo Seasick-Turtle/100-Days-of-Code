@@ -31,3 +31,10 @@ After several days of feeling ill and not being able to look at screens for very
 * Assisted with user functionality diagram and ux design for TaskIt
 * Did additional work on FCC tribute
 * Started planning for the next FCC project
+
+### Day 5:
+
+* Took a few days off from coding/entries on github to ensure good physical health and spend less time in front of the screen
+* Have been listening to Frontend Masters courses reviewing Javascript data structures
+* Doing research to finish up FCC tribute page but have modified the layout
+* Implemented animation on scroll effect to the FCC project
