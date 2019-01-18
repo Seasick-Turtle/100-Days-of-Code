@@ -38,3 +38,9 @@ After several days of feeling ill and not being able to look at screens for very
 * Have been listening to Frontend Masters courses reviewing Javascript data structures
 * Doing research to finish up FCC tribute page but have modified the layout
 * Implemented animation on scroll effect to the FCC project
+
+### Day 6:
+
+* Almost finsihed with the FCC tribute page
+* Adjusted the repo I'm working on in the Project Unicorn Organization
+* Did additional planning, talked about the future of the TaskIt project
