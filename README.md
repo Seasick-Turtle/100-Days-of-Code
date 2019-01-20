@@ -44,3 +44,9 @@ After several days of feeling ill and not being able to look at screens for very
 * Almost finsihed with the FCC tribute page
 * Adjusted the repo I'm working on in the Project Unicorn Organization
 * Did additional planning, talked about the future of the TaskIt project
+
+### Day 7:
+
+* Spent time learning more Node in order to implement it as part of the MERN stack
+* Learned how to connect Express server and how to serve index.html file from create-react-app from scratch
+* Added a fix to gitignore in TaskIt
