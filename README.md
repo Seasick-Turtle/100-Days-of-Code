@@ -50,3 +50,7 @@ After several days of feeling ill and not being able to look at screens for very
 * Spent time learning more Node in order to implement it as part of the MERN stack
 * Learned how to connect Express server and how to serve index.html file from create-react-app from scratch
 * Added a fix to gitignore in TaskIt
+
+### Day 8:
+
+* Spent the day learning Node and completing practice examples
