@@ -54,3 +54,13 @@ After several days of feeling ill and not being able to look at screens for very
 ### Day 8:
 
 * Spent the day learning Node and completing practice examples
+
+
+### Day 9: 
+
+* Researched options for user authentication
+* Agreed on Passport.js and passport local dependencies
+* Created basic React Components for login/register, team/register to hook up to the test database and express routes
+* Also added SCSS to project
+* Encountered problems with git, fixed the conflicts allowing others to properly pull from the repo
+* Planned out the next few days in order to achieve this week's goal for the group  
