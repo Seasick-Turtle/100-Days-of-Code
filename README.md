@@ -64,3 +64,8 @@ After several days of feeling ill and not being able to look at screens for very
 * Also added SCSS to project
 * Encountered problems with git, fixed the conflicts allowing others to properly pull from the repo
 * Planned out the next few days in order to achieve this week's goal for the group  
+
+### Day 10:
+
+* Have been working on user authentication with passport/passport-local
+* Trying to assist with the Register component/backend logic
