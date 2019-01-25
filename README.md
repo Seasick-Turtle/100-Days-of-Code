@@ -69,3 +69,4 @@ After several days of feeling ill and not being able to look at screens for very
 
 * Have been working on user authentication with passport/passport-local
 * Trying to assist with the Register component/backend logic
+* Also cleaned up and fixed conflicts in the TaskIt repo
