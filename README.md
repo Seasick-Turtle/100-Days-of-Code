@@ -70,3 +70,11 @@ After several days of feeling ill and not being able to look at screens for very
 * Have been working on user authentication with passport/passport-local
 * Trying to assist with the Register component/backend logic
 * Also cleaned up and fixed conflicts in the TaskIt repo
+
+### Day 11:
+
+* Have been working on TaskIt project
+* Also have been having Internet issues, made it difficult to update
+* However, I did manage to get the test database to connect to the app and save users through the register form
+* There's been an issue with bcryptjs throwing an error after hitting the register button, still trying to figure out how to solve that issue
+* Will be adding user authentication after posting data to database stops throwing an error
