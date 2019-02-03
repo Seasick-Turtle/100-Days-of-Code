@@ -78,3 +78,11 @@ After several days of feeling ill and not being able to look at screens for very
 * However, I did manage to get the test database to connect to the app and save users through the register form
 * There's been an issue with bcryptjs throwing an error after hitting the register button, still trying to figure out how to solve that issue
 * Will be adding user authentication after posting data to database stops throwing an error
+
+
+### Day 12: 
+
+* Worked on TaskIt project
+* Completed functional registration so that documents get stored in users collection for MongoDB
+* Still having an error with 'path is required'
+* Pushed what I had to the main repo so others may also work on fixing the bug
