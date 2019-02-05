@@ -86,3 +86,9 @@ After several days of feeling ill and not being able to look at screens for very
 * Completed functional registration so that documents get stored in users collection for MongoDB
 * Still having an error with 'path is required'
 * Pushed what I had to the main repo so others may also work on fixing the bug
+
+### Day 13:
+
+* Started a bit late on the survey FCC project
+* Fixed an error with the database not receiving data
+* Started to plan out how to implement search functionality with the Star Wars API project
