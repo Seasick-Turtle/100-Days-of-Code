@@ -92,3 +92,14 @@ After several days of feeling ill and not being able to look at screens for very
 * Started a bit late on the survey FCC project
 * Fixed an error with the database not receiving data
 * Started to plan out how to implement search functionality with the Star Wars API project
+
+
+### Day 14: 
+
+* There was a problem with the registration route, spent time fixing that
+* Decided on what FCC Survey would be about, shouldn't take long to finish in the upcoming days
+* Spent time learning more React 16+ features
+
+### Day 15: 
+
+* In progress
