@@ -102,4 +102,17 @@ After several days of feeling ill and not being able to look at screens for very
 
 ### Day 15: 
 
-* In progress
+* Successfully got register function to work for team members
+* Spent time learning more about how JavaScript works under the hood
+
+### Day 16: 
+
+* Applied to several places
+* Spent time learning more data structures/algorithms
+* Practiced on CodeWars
+
+### Day 17:
+
+* Spent additional time going over React best practices
+* Spent additional time going over data structures
+* Did more problems on CodeWars
