@@ -116,3 +116,7 @@ After several days of feeling ill and not being able to look at screens for very
 * Spent additional time going over React best practices
 * Spent additional time going over data structures
 * Did more problems on CodeWars
+
+### Day 18: 
+
+* Spent the day working on more CodeWars and doing additional reading on JavaScript
