@@ -120,3 +120,8 @@ After several days of feeling ill and not being able to look at screens for very
 ### Day 18: 
 
 * Spent the day working on more CodeWars and doing additional reading on JavaScript
+
+### Day 19:
+
+* Learned how to implement React hooks, made an example repo to demonstrate and explain useState and useEffect
+* Started converting the Home class in star-wars-app into a React Hook
