@@ -125,3 +125,8 @@ After several days of feeling ill and not being able to look at screens for very
 
 * Learned how to implement React hooks, made an example repo to demonstrate and explain useState and useEffect
 * Started converting the Home class in star-wars-app into a React Hook
+
+### Day 20:
+
+* Realized that in order to properly implement hooks and their functionality I would have to restructure the SWAPI project
+* Started the restructure process of the home component and will create more resuable code for other components
