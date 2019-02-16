@@ -130,3 +130,8 @@ After several days of feeling ill and not being able to look at screens for very
 
 * Realized that in order to properly implement hooks and their functionality I would have to restructure the SWAPI project
 * Started the restructure process of the home component and will create more resuable code for other components
+
+### Day 21:
+
+* Continued working on refactoring to hooks
+* Started learning Bulma
