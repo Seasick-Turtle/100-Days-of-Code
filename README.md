@@ -135,3 +135,8 @@ After several days of feeling ill and not being able to look at screens for very
 
 * Continued working on refactoring to hooks
 * Started learning Bulma
+
+### Day 22:
+
+* Almost completed the hooks refactor, made an error with passing state from Home component to Preview component
+* Signed up for VueMastery free weekend starting on the 22nd this month
