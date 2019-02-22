@@ -140,3 +140,23 @@ After several days of feeling ill and not being able to look at screens for very
 
 * Almost completed the hooks refactor, made an error with passing state from Home component to Preview component
 * Signed up for VueMastery free weekend starting on the 22nd this month
+
+### Day 23:
+
+* Worked additionally on converting the Home Component
+* Managed to get the state working properly
+
+### Day 24: 
+
+* Created a custom hook in order to call make an API call to retrieve data
+* Broke down the Home Component into more manageable/readable functions utilizing React Hooks
+
+### Day 25: 
+
+* Implemented a time function in which it checks the stored date
+* Still working on getting that to work once the component has finally mounted as well as implementing local storage to save the data for the day
+
+### Day 26:
+
+* Working on the intro to Vue course in preparation for tomorrow and the free learning weekend on Vue Mastery (late start in the day)
+* Planning to create a simple app in order to practice using Vue
