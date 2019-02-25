@@ -160,3 +160,10 @@ After several days of feeling ill and not being able to look at screens for very
 
 * Working on the intro to Vue course in preparation for tomorrow and the free learning weekend on Vue Mastery (late start in the day)
 * Planning to create a simple app in order to practice using Vue
+
+### Days 27-29
+
+* Worked on the Vue Mastery courses
+* Learned how to use the Vue-CLI, Vue UI, the basics of Vue, Vuex, and Routing
+* Began understanding how to implement Vuex in a bigger application
+* Built 2 example applications in the process
