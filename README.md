@@ -167,3 +167,13 @@ After several days of feeling ill and not being able to look at screens for very
 * Learned how to use the Vue-CLI, Vue UI, the basics of Vue, Vuex, and Routing
 * Began understanding how to implement Vuex in a bigger application
 * Built 2 example applications in the process
+
+### Day 30
+
+* Fixed local storage in Star Wars app
+* Practiced using Vue
+
+### Day 31
+
+* Spent the day working on Star Wars app
+* Started learning React Context
