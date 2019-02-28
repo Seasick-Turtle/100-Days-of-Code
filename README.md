@@ -177,3 +177,9 @@ After several days of feeling ill and not being able to look at screens for very
 
 * Spent the day working on Star Wars app
 * Started learning React Context
+
+### Day 32:
+
+* Learned how to (and when to usually use) React Context
+* Also learned how to use React Portals (used in a Modal example)
+* Started learning how to use Jest to create tests
