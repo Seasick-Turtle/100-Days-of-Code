@@ -183,3 +183,10 @@ After several days of feeling ill and not being able to look at screens for very
 * Learned how to (and when to usually use) React Context
 * Also learned how to use React Portals (used in a Modal example)
 * Started learning how to use Jest to create tests
+
+### Day 33:
+
+* Learned how to implement Emotion (similar to styled components library)
+* Also learned a method to do code-splitting
+* Started reviewing how to implement Redux and how to create Progressive Web Apps
+* Planning on implementing additional features to the Star Wars project
